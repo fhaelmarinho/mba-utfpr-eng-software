@@ -1,2 +1,3 @@
 Integrantes da Equipe:
 - Rafael de Barros Marinho
+- https://github.com/fhaelmarinho/mba-utfpr-eng-software
